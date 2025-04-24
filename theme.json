@@ -3,12 +3,12 @@
     "description": "This theme includes element styles with icons for each of the Azure DevOps services.",
     "elements": [
       {
-        "tag": "Microsoft Azure DevOps - Artifact",
-        "icon": "https://raw.githubusercontent.com/brittandeyoung/structurizr-azure-devops-theme/refs/heads/main/icons/Azure-Artifact.png"
+        "tag": "Microsoft Azure DevOps - Artifacts",
+        "icon": "https://raw.githubusercontent.com/brittandeyoung/structurizr-azure-devops-theme/refs/heads/main/icons/Azure-Artifacts.png"
       },
       {
-        "tag": "Microsoft Azure DevOps - Board",
-        "icon": "https://raw.githubusercontent.com/brittandeyoung/structurizr-azure-devops-theme/refs/heads/main/icons/Azure-Board.png"
+        "tag": "Microsoft Azure DevOps - Boards",
+        "icon": "https://raw.githubusercontent.com/brittandeyoung/structurizr-azure-devops-theme/refs/heads/main/icons/Azure-Boards.png"
       },
       {
         "tag": "Microsoft Azure DevOps",
@@ -19,8 +19,8 @@
         "icon": "https://raw.githubusercontent.com/brittandeyoung/structurizr-azure-devops-theme/refs/heads/main/icons/Azure-Pipelines.png"
       },
       {
-        "tag": "Microsoft Azure DevOps - Repo",
-        "icon": "https://raw.githubusercontent.com/brittandeyoung/structurizr-azure-devops-theme/refs/heads/main/icons/Azure-Repo.png"
+        "tag": "Microsoft Azure DevOps - Repos",
+        "icon": "https://raw.githubusercontent.com/brittandeyoung/structurizr-azure-devops-theme/refs/heads/main/icons/Azure-Repos.png"
       }
     ]
   }
